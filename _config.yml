@@ -18,7 +18,7 @@ sass:
 links:
   twitter: mmoghadas
   email: s.m.moghadas2012@gmail.com
-  github: https://github.com/moghadas76
+  github: moghadas76
 exclude:
   - bower_components
   - README.md
