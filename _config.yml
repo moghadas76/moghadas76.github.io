@@ -1,11 +1,11 @@
 # Site settings
 ## Change the values as needed.
-title: Bitwiser-Material
-email: brijeshb42@gmail.com
-description: "A jekyll theme implementing material design by using muicss."
-keywords: "jekyll, theme, material, muicss"
+title: Seyed Mohamad Moghadas
+email: s.m.moghadas2012@gmail.com
+description: "This is Moghadas's personnal website"
+keywords: "Moghadas, python, django, docker"
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
-url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
+url: "moghadas76.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 paginate_path: "page:num"
@@ -16,14 +16,13 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: brijeshb42
-  twitter: brijeshb42
-  email: brijeshb42@gmail.com
-  github: brijeshb42/bitwiser-material/
+  twitter: mmoghadas
+  email: s.m.moghadas2012@gmail.com
+  github: https://github.com/moghadas76
 exclude:
   - bower_components
   - README.md
-full_name: Brijesh
+full_name: Moghadas
 
 ##set this to enable disqus commenting
 disqus: bitwiser
