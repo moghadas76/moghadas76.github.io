@@ -11,7 +11,7 @@ published: true
 	<div class="gallery">
 
 
-  {% for project in site.projects %}
+  {% for project in site.talks %}
 
   {% if project.redirect %}
   <div class="projectTile">
