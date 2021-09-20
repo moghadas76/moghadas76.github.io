@@ -28,8 +28,7 @@ highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
-  google_analytics: G-HJ43VT1L2J
+analytics: G-HJ43VT1L2J
 
 #optimization -> compress.html
 compress_html:
