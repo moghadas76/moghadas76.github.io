@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Seyed Mohamad Moghadas
-description: ML Engineer | Amirkabir University of technology | Researcher
+description: ML Engineer | Amirkabir University of technology | AI Researcher
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -18,10 +18,10 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "#"
-twitter: "#"
-linkedin: "#"
+twitter: "mmoghadas"
+linkedin: "mohamad-moghadas-61735a57"
 github: "moghadas76"
-researchgate: "#"
+researchgate: "Seyed-Moghadas-2"
 orcid: "#"
 
 highlighter: rouge
