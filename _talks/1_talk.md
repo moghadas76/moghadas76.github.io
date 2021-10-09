@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manifold learning
-description: description of the short project which is long enough
+description: A brief presentation about manifold learning algorithms and the applications - Fall 2020
 redirect: https://docs.google.com/presentation/d/1z_c5KZ_B8oJdyQAxF_NHPZ6NpJNM-nDiZPgy8yncKBk/edit?usp=sharing
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
